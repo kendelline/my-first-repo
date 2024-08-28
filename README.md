@@ -5,3 +5,5 @@ NPM : 2306275626
 Kelas : PBP C
 
 Hobi : Mencintai Attar
+
+Jurusan : Sistem Informasi
