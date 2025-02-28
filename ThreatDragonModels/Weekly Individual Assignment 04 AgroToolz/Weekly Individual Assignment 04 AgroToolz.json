@@ -3,7 +3,7 @@
   "summary": {
     "title": "Weekly Individual Assignment 04 AgroToolz",
     "owner": "PKPL 45",
-    "description": "Sistem Website AgrooToolz",
+    "description": "Sistem Website AgrooToolz untuk Fitur Mengelola Penyewaan & Appointment dengan Ahli",
     "id": 0
   },
   "detail": {
@@ -24,7 +24,7 @@
     "diagrams": [
       {
         "id": 0,
-        "title": "Flow Diagram",
+        "title": "Flow Diagram Fitur Mengelola Penyewaan & Appointment dengan Ahli AgroToolz",
         "diagramType": "STRIDE",
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
