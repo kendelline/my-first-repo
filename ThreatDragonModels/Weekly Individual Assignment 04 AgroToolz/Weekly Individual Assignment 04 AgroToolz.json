@@ -2,16 +2,29 @@
   "version": "2.3.0",
   "summary": {
     "title": "Weekly Individual Assignment 04 AgroToolz",
-    "owner": "",
-    "description": "",
+    "owner": "PKPL 45",
+    "description": "Sistem Website AgrooToolz",
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Nur Khoirunnisa Salsabila"
+      },
+      {
+        "name": "Adelya Amanda"
+      },
+      {
+        "name": "Nasha Zahira"
+      },
+      {
+        "name": "Ananda Dwi Hanifa"
+      }
+    ],
     "diagrams": [
       {
         "id": 0,
-        "title": "New STRIDE diagram",
+        "title": "Flow Diagram",
         "diagramType": "STRIDE",
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
@@ -20,7 +33,7 @@
       }
     ],
     "diagramTop": 1,
-    "reviewer": "",
+    "reviewer": "Joanne",
     "threatTop": 0
   }
 }
